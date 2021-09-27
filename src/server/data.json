@@ -1,0 +1,23 @@
+{
+    "clients": [
+        {
+            "id": 877,
+            "name": "Carlos Silva",
+            "CEP": 20641075
+        }
+    ],
+    "products": [
+        {
+            "id": 4541,
+            "name": "Sleeve transparente",
+            "price": 10,
+            "amount": 0
+        },
+        {
+            "id": 4542,
+            "name": "Dragon shield Green",
+            "price": 95,
+            "amount": 0
+        }
+    ]
+}
